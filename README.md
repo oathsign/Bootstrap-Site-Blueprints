@@ -1,2 +1,2 @@
-# studious-garbanzo
-Bootstrap Site Blueprints
+# Read Me
+The code of "Bootstrap Site Blueprints"
