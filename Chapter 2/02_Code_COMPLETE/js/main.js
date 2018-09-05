@@ -6,3 +6,12 @@ $( document ).ready(function() {
 	});
 
 });
+
+
+
+$('.navbar-nav li').click(function(){
+	// $('.navbar-nav .nav').removeClass('active');
+	$(this).addClass('active');
+	$(this).siblings().removeClass("active");  
+});
+
